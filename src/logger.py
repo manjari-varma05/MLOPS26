@@ -35,3 +35,4 @@ if __name__ == "__main__":
     logger.info("Pipeline started")
     logger.warning("Warning example")
     logger.error("Error example")
+    #python src/logger.py
